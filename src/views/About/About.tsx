@@ -53,7 +53,7 @@ const About: React.FunctionComponent = (): JSX.Element => {
 			>
 				<div className="absolute md:right-0 z-10 md:mr-10 md:hover:mr-5 md:hover:-mt-5 ease-in-out transition-all duration-300">
 					<Image
-						src="/images/profile.JPG"
+						src="/images/profile.jpg"
 						alt="profile"
 						width={259}
 						height={280}
