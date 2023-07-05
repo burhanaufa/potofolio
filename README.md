@@ -1,8 +1,6 @@
 ## Introduction
 
-this is source code of landing page hellotoms.com. the web page build with modern technologies such nextjs typescript and tailwindcss. why? maybe I just want to create project for fun and learning the new stack. I know this is overkill built simple page with last technology that most popular it takes more times and effort to create a simple page. but it is just for learning purposes. currently I've experience with tailwindcss and makes me amazed in the first time to using it. it likes simple and the result super awesome!
-
-for now it just made for my personal landing page. but I've an idea to make it modular and it can be used for other with variate theme. I'll be create the next time..
+The web page build with modern technologies such nextjs typescript and tailwindcss. why? maybe I just want to create project for fun and learning the new stack. I know this is overkill built simple page with last technology that most popular it takes more times and effort to create a simple page. but it is just for learning purposes. currently I've experience with tailwindcss and makes me amazed in the first time to using it. it likes simple and the result super awesome!
 
 ## Notes
 
